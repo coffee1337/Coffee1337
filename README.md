@@ -130,3 +130,5 @@ GitHub:
 https://github.com/Coffee1337
 
 </div>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Coffee1337&theme=tokyonight)
