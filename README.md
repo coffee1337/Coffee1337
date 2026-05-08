@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Coffee1337/Coffee1337/main/banner.png"/>
+
+</div>
+
+<div align="center">
+
 # 👋 Егор / Coffee1337
 
 Разработчик, увлечённый AI, автоматизацией, аналитикой данных и созданием полезных digital-инструментов.
