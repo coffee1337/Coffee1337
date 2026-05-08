@@ -6,17 +6,15 @@
 
 <div align="center">
 
-# 👋 Егор / Coffee1337
+# 👋 Coffee1337 / Егор Трефилов
 
-Разработчик, увлечённый AI, автоматизацией, аналитикой данных и созданием полезных digital-инструментов.
+### AI • Backend • Аналитика данных • Automation
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![CSharp](https://img.shields.io/badge/CSharp-20232A?style=for-the-badge&logo=csharp)
-![Dart](https://img.shields.io/badge/Dart-20232A?style=for-the-badge&logo=dart)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=white)](https://coffee1337.github.io)
+[![Resume](https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Coffee1337/resume)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coffee1337)
 
 </div>
 
@@ -24,111 +22,95 @@
 
 # 🚀 Обо мне
 
-Мне интересно создавать реальные проекты, которые автоматизируют процессы, работают с данными и упрощают взаимодействие пользователей с технологиями.
+Self-taught разработчик, занимающийся:
+- AI-интеграциями
+- backend-разработкой
+- автоматизацией
+- аналитикой данных
+- созданием pet-projects
 
-Основные направления, которыми я занимаюсь:
-
-- 🤖 AI и автоматизация
-- 📊 Аналитика данных
-- 🧠 Telegram-боты и AI-интеграции
-- 🌐 Backend и инструменты
-- 📱 Flutter / frontend-разработка
-- ⚙️ Парсинг и обработка данных
-- 🔍 Эксперименты с ML и алгоритмами
+Основной интерес:
+- backend architecture
+- AI & automation
+- data analysis
+- engineering-oriented development
+- scalable systems
 
 ---
 
 # 🛠 Технологии
 
-## Языки
+### Backend
 
-- Python
-- Dart
-- TypeScript
-- C#
-- Go
-- SQL
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
 
 ---
 
-## Backend / Tools
+### AI / Аналитика данных
 
-- FastAPI
-- REST API
-- SQLite / PostgreSQL
-- Git
-- Docker
-- AsyncIO
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-111827?style=flat-square)
 
 ---
 
-## Frontend / Mobile
+### Frontend / Mobile
 
-- Flutter
-- TailwindCSS
-- Vite
-- HTML / CSS
-
----
-
-## Data / AI
-
-- Pandas
-- Data Analysis
-- OpenAI API
-- Парсинг данных
-- Автоматизация процессов
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=flat-square&logo=tailwindcss)
 
 ---
 
-# 📂 Основные проекты
-
-## 🎓 NGIE University App
-
-Кроссплатформенное Flutter-приложение с современным UI и адаптивной архитектурой.
-
----
+# 📌 Основные проекты
 
 ## 💳 TransactionMonitor
 
-Система мониторинга и анализа транзакций с backend-логикой и обработкой данных.
+Система мониторинга и анализа транзакций
+с backend-архитектурой, обработкой событий
+и логированием.
 
 ---
 
-## 🤖 AI Telegram Bots
+## 🎓 NGIE University App
 
-Telegram-боты с AI-интеграциями, автоматизацией и обработкой пользовательских запросов.
-
----
-
-## 📊 Data Analysis & Parsing Tools
-
-Инструменты для сбора, анализа и обработки данных.
+Кроссплатформенное Flutter-приложение
+с адаптивным UI и современной структурой проекта.
 
 ---
 
-# 📚 Сейчас изучаю
+## 🧠 K-Nearest-Neighbors
 
-- Архитектуру backend-приложений
-- Системный дизайн
-- ML / AI
-- Data Engineering
-- Асинхронное программирование
-- Масштабируемые системы
+Реализация алгоритма KNN с нуля
+для изучения ML и аналитики данных.
 
 ---
 
-# 🎯 Цель
+# 📊 GitHub статистика
 
-Развиваться как backend / AI / data developer и создавать проекты, которые решают реальные задачи.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Coffee1337&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Coffee1337&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📫 Контакты
+# 🌐 Ссылки
 
-GitHub:
+### Portfolio Website
+https://coffee1337.github.io
+
+### Resume
+https://github.com/Coffee1337/resume
+
+### GitHub
 https://github.com/Coffee1337
 
-</div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Coffee1337&theme=tokyonight)
+---
