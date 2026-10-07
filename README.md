@@ -81,12 +81,12 @@ Desktop transaction monitoring and analytics system.
 
 Highlights:
 
-- transaction processing
-- event monitoring
-- logging
-- modular application architecture
-- data analysis
-- MVVM-style project structure
+- transaction monitoring and filtering
+- rule-based risk scoring
+- analytical dashboard
+- client and account management
+- counterparty risk analysis
+- SQL Server data access
 
 ---
 
