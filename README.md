@@ -107,6 +107,12 @@ Features:
 
 ---
 
+### 🔬 More
+
+- [Neural A* Heuristic](https://github.com/Coffee1337/neural-astar-heuristic) — learned PyTorch heuristic for A* search across multiple puzzle environments.
+
+---
+
 ## 🛠 Tech Stack
 
 ### Backend
@@ -138,14 +144,9 @@ Features:
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
-- Backend Architecture
-- System Design
-- Advanced Python
-- Data Engineering
-- AI / LLM application architecture
-- Scalable distributed systems
+Backend architecture · AI-powered products · System design
 
 
 ---
