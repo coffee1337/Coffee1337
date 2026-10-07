@@ -77,7 +77,7 @@ Highlights:
 
 Desktop transaction monitoring and analytics system.
 
-**Stack:** C# · .NET · WPF · SQL
+**Stack:** C# · .NET 8 · WinUI 3 · SQL Server
 
 Highlights:
 
