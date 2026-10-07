@@ -35,7 +35,7 @@ Currently focused on **backend architecture, AI-powered products, system design 
 
 ## 🚀 Featured Projects
 
-### 🧠 [AI Python Backend Mentor](https://github.com/Coffee1337/ai_bot_ai)
+### 🧠 [AI Python Backend Mentor](https://github.com/Coffee1337/ai-python-mentor)
 
 Full-stack AI-powered learning platform for studying Python and backend development.
 
