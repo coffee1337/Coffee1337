@@ -1,145 +1,43 @@
 <div align="center">
 
-<a href="https://coffee1337.github.io/"><img src="./assets/banner.svg" width="100%" alt="Egor Trefilov — Python Backend & AI Automation Developer" /></a>
+<a href="https://coffee1337.github.io/"><img src="./assets/banner.png" width="100%" alt="Egor Trefilov — Python Backend & AI Automation Developer" /></a>
 
 <br />
 
-<a href="https://coffee1337.github.io/"><img src="./assets/pills/portfolio.png" height="34" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://coffee1337.github.io/ru/"><img src="./assets/pills/ru.png" height="34" alt="Русская версия" /></a>&nbsp;&nbsp;<a href="https://coffee1337.github.io/resume/Egor_Trefilov_Resume_EN.pdf"><img src="./assets/pills/resume.png" height="34" alt="Resume PDF" /></a>&nbsp;&nbsp;<a href="https://t.me/cooffeek1337"><img src="./assets/pills/telegram.png" height="34" alt="Telegram" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/coffee1337/"><img src="./assets/pills/linkedin.png" height="34" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:trefilovegor84@gmail.com"><img src="./assets/pills/email.png" height="34" alt="Email" /></a>
+<a href="https://coffee1337.github.io/"><img src="./assets/pills/portfolio.png" height="32" alt="Portfolio" /></a>&nbsp;<a href="https://coffee1337.github.io/ru/"><img src="./assets/pills/ru.png" height="32" alt="Русская версия" /></a>&nbsp;<a href="https://coffee1337.github.io/resume/Egor_Trefilov_Resume_EN.pdf"><img src="./assets/pills/resume.png" height="32" alt="Resume PDF" /></a>&nbsp;<a href="https://t.me/cooffeek1337"><img src="./assets/pills/telegram.png" height="32" alt="Telegram" /></a>&nbsp;<a href="https://www.linkedin.com/in/coffee1337/"><img src="./assets/pills/linkedin.png" height="32" alt="LinkedIn" /></a>&nbsp;<a href="mailto:trefilovegor84@gmail.com"><img src="./assets/pills/email.png" height="32" alt="Email" /></a>
 
 </div>
 
 ## What I Build
 
-<table>
-<tr>
-<td width="54%" valign="top">
-
-**Production Python Backends**
-
-`FastAPI` services, `PostgreSQL` + `Alembic` migrations, auth sessions, background workers & `Docker`.
-
-**Grounded AI & RAG**
-
-`pgvector` retrieval, streamed LLM pipelines, usage accounting & isolated code sandboxes.
-
-**Applied CV & Automation**
-
-`PyTorch` / `YOLO11s` R&D, physics-based synthetic datasets, Telegram bots & data pipelines.
-
-</td>
-<td width="46%" valign="top">
-
-`Aug 2025 — Present`
-**Python Backend & AI Developer**
-<sub>Independent / Freelance — APIs, RAG assistants, bots & Dockerized services</sub>
-
-`2026`
-**ML / Computer Vision R&D Intern**
-<sub>Radio-Engineering Research Institute — synthetic radar PPI pipeline & YOLO11s (`Rospatent #2026624059`)</sub>
-
-`2024 — 2028`
-**B.Sc. in AI Systems (`09.03.01`)**
-<sub>NGIEU — Nizhny Novgorod State Engineering & Economic University (3rd year)</sub>
-
-</td>
-</tr>
-</table>
+<p align="center"><img src="./assets/about/01-what-i-build.png" width="49.1%" alt="Production Python backends, grounded AI and RAG, applied computer vision and automation" />&nbsp;<img src="./assets/about/02-experience.png" width="49.1%" alt="Experience and education" /></p>
 
 ## Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center"><a href="https://coffee1337.github.io/projects/ai-python-mentor/"><img src="./assets/projects/01-ai-python-mentor.png" width="49.1%" alt="AI Python Mentor — full-stack AI learning platform" /></a>&nbsp;<a href="https://coffee1337.github.io/projects/radar-ppi-mtd/"><img src="./assets/projects/02-radar-ppi-mtd.png" width="49.1%" alt="RadarPPI-MTD — synthetic radar PPI dataset and YOLO11s detector" /></a></p>
 
-**AI Python Mentor**
-
-Full-stack AI learning platform: structured tracks, `pgvector` RAG tutor, isolated Python runner, background jobs & Telegram integration.
-
-<sub>`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Next.js` · `RAG` · `Docker`</sub>
-
-<a href="https://coffee1337.github.io/projects/ai-python-mentor/"><img src="./assets/buttons/case-study.png" height="26" alt="Case Study" /></a>&nbsp;<a href="https://github.com/coffee1337/ai-python-mentor"><img src="./assets/buttons/github.png" height="26" alt="Source" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**RadarPPI-MTD**
-
-Physics-based synthetic radar PPI generator (`10,000` scenes, `619,153` frames, `11.8 GB`) & `YOLO11s` detector (`mAP@0.5 = 0.924`, `Pd = 0.916`).
-
-<sub>`Python` · `PyTorch` · `YOLO11s` · `OpenCV` · `NumPy` · `ByteTrack`</sub>
-
-<a href="https://coffee1337.github.io/projects/radar-ppi-mtd/"><img src="./assets/buttons/case-study.png" height="26" alt="Case Study" /></a>&nbsp;<a href="https://new.fips.ru/registers-doc-view/fips_servlet?DB=DB&DocNumber=2026624059&TypeFile=html"><img src="./assets/buttons/rospatent.png" height="26" alt="Rospatent registry" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**portfolio-analytics**
-
-First-party privacy-friendly web analytics: `sendBeacon` retry queue, `FastAPI` collector, Core Web Vitals & `React 19` SPA dashboard.
-
-<sub>`Python` · `FastAPI` · `SQLAlchemy 2.0` · `PostgreSQL` · `React 19` · `TypeScript` · `Docker`</sub>
-
-<a href="https://coffee1337.github.io/projects/portfolio-analytics/"><img src="./assets/buttons/case-study.png" height="26" alt="Case Study" /></a>&nbsp;<a href="https://github.com/coffee1337/portfolio-analytics"><img src="./assets/buttons/github.png" height="26" alt="Source" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**NGIE University App**
-
-Offline-first cross-platform university app with `Drift/SQLite` cache, schedule notifications & native `WidgetKit` / Android lock-screen widgets.
-
-<sub>`Flutter` · `Dart` · `Riverpod` · `Drift` · `Swift` · `Kotlin`</sub>
-
-<a href="https://coffee1337.github.io/projects/ngie/"><img src="./assets/buttons/case-study.png" height="26" alt="Case Study" /></a>&nbsp;<a href="https://github.com/coffee1337/ngieuapp"><img src="./assets/buttons/github.png" height="26" alt="Source" /></a>
-
-</td>
-</tr>
-</table>
+<p align="center"><a href="https://coffee1337.github.io/projects/portfolio-analytics/"><img src="./assets/projects/03-portfolio-analytics.png" width="49.1%" alt="portfolio-analytics — privacy-friendly first-party web analytics" /></a>&nbsp;<a href="https://coffee1337.github.io/projects/ngie/"><img src="./assets/projects/04-ngie.png" width="49.1%" alt="NGIE University App — offline-first cross-platform app" /></a></p>
 
 <details>
-<summary><b>More Engineering Case Studies (3)</b> — TransactionMonitor (.NET 8) · Neural A&#42; Heuristic (PyTorch) · k-NN from Scratch (C++17)</summary>
+<summary><b>More engineering case studies (3)</b> — TransactionMonitor (.NET 8) · Neural A&#42; Heuristic (PyTorch) · k-NN from Scratch (C++17)</summary>
 
 <br />
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**TransactionMonitor**
-
-Desktop transaction monitoring and risk analysis: explainable rule-based scoring stored per transaction, analyst review & CSV export.
-
-<sub>`C#` · `.NET 8` · `WinUI 3` · `SQL Server`</sub>
+**TransactionMonitor** — desktop transaction monitoring and risk analysis: explainable rule-based scoring stored with every transaction, analyst review for high-risk operations and CSV export. C#, .NET 8, WinUI 3, SQL Server.
 
 <a href="https://coffee1337.github.io/projects/transaction-monitor/"><img src="./assets/buttons/case-study.png" height="26" alt="Case Study" /></a>&nbsp;<a href="https://github.com/coffee1337/TransactionMonitor"><img src="./assets/buttons/github.png" height="26" alt="Source" /></a>
 
-</td>
-<td width="33%" valign="top">
+---
 
-**Neural A&#42; Heuristic**
-
-A value network `V(s)` trained from backward walks becomes the A&#42; heuristic (`f = g + V`); one architecture, three puzzle state spaces.
-
-<sub>`Python` · `PyTorch` · `NumPy` · `A*` · `Docker`</sub>
+**Neural A&#42; Heuristic** — a value network trained on backward walks from solved states becomes the A&#42; heuristic (f = g + V); one architecture, three puzzle state spaces. Python, PyTorch, NumPy, Docker.
 
 <a href="https://coffee1337.github.io/projects/neural-astar/"><img src="./assets/buttons/case-study.png" height="26" alt="Case Study" /></a>&nbsp;<a href="https://github.com/coffee1337/neural-astar-heuristic"><img src="./assets/buttons/github.png" height="26" alt="Source" /></a>
 
-</td>
-<td width="33%" valign="top">
+---
 
-**k-Nearest Neighbors from Scratch**
-
-k-NN in `C++17` with three distance metrics, weighted voting and normalisation, behind a WinAPI desktop interface.
-
-<sub>`C++17` · `CMake` · `WinAPI`</sub>
+**k-Nearest Neighbors from Scratch** — k-NN in C++17 with three distance metrics, weighted voting and feature normalisation behind a WinAPI desktop interface. C++17, CMake, WinAPI.
 
 <a href="https://coffee1337.github.io/projects/knn/"><img src="./assets/buttons/case-study.png" height="26" alt="Case Study" /></a>&nbsp;<a href="https://github.com/coffee1337/k-nearest-neighbors"><img src="./assets/buttons/github.png" height="26" alt="Source" /></a>
-
-</td>
-</tr>
-</table>
 
 </details>
 
@@ -151,7 +49,7 @@ k-NN in `C++17` with three distance metrics, weighted voting and normalisation, 
 
 **AI, ML & Data**
 
-<img src="./assets/stack/llm-apis.png" height="28" alt="LLM APIs" />&nbsp;<img src="./assets/stack/rag-pgvector.png" height="28" alt="RAG / pgvector" />&nbsp;<img src="./assets/stack/pytorch.png" height="28" alt="PyTorch" />&nbsp;<img src="./assets/stack/yolo11s.png" height="28" alt="YOLO11s" />&nbsp;<img src="./assets/stack/opencv.png" height="28" alt="OpenCV" />&nbsp;<img src="./assets/stack/pandas.png" height="28" alt="Pandas" />&nbsp;<img src="./assets/stack/snowflake.png" height="28" alt="Snowflake" />
+<img src="./assets/stack/llm-apis.png" height="28" alt="LLM APIs" />&nbsp;<img src="./assets/stack/rag-pgvector.png" height="28" alt="RAG and pgvector" />&nbsp;<img src="./assets/stack/pytorch.png" height="28" alt="PyTorch" />&nbsp;<img src="./assets/stack/yolo11s.png" height="28" alt="YOLO11s" />&nbsp;<img src="./assets/stack/opencv.png" height="28" alt="OpenCV" />&nbsp;<img src="./assets/stack/pandas.png" height="28" alt="Pandas" />&nbsp;<img src="./assets/stack/snowflake.png" height="28" alt="Snowflake" />
 
 **Cloud & DevOps**
 
@@ -163,21 +61,12 @@ k-NN in `C++17` with three distance metrics, weighted voting and normalisation, 
 
 ## Credentials & Registered IP
 
-<a href="https://new.fips.ru/registers-doc-view/fips_servlet?DB=DB&DocNumber=2026624059&TypeFile=html"><img src="./assets/creds/00-rospatent.png" width="100%" alt="State Registration Certificate of Database No. 2026624059 — RadarPPI-MTD" /></a>
+<p align="center"><a href="https://new.fips.ru/registers-doc-view/fips_servlet?DB=DB&DocNumber=2026624059&TypeFile=html"><img src="./assets/creds/00-rospatent.png" width="100%" alt="State Registration Certificate of Database No. 2026624059 — RadarPPI-MTD" /></a></p>
 
-<table>
-<tr>
-<td width="49.2%" valign="top"><a href="https://www.linkedin.com/learning/certificates/7dbcfe3d6e75e230a455c69fc572a2bf422822b777cc40686c8ec1b220177967/"><img src="./assets/creds/01-snowflake-genai.png" width="100%" alt="Generative AI Professional Certificate — Snowflake" /></a></td>
-<td width="49.2%" valign="top"><a href="https://www.linkedin.com/learning/certificates/3da5e65791016cdc89e7f42a986a37c699f119cf7b6f90ac683362857740c3f7/"><img src="./assets/creds/02-docker.png" width="100%" alt="Docker Foundations Professional Certificate" /></a></td>
-</tr>
-<tr>
-<td width="49.2%" valign="top"><a href="https://www.linkedin.com/learning/certificates/1e5b63d85c89c9efa42594708e819226f4036646c14fd345356a085d3f5b58e6/"><img src="./assets/creds/03-azure.png" width="100%" alt="Microsoft Azure Essentials Professional Certificate" /></a></td>
-<td width="49.2%" valign="top"><a href="https://www.linkedin.com/learning/certificates/5ee9bbacfc5a96408649fbb18ec701032c546fcc574f4395c077ae8cef0aed48/"><img src="./assets/creds/04-github.png" width="100%" alt="Career Essentials in GitHub Professional Certificate" /></a></td>
-</tr>
-<tr>
-<td width="49.2%" valign="top"><a href="https://www.linkedin.com/learning/certificates/7432d7674af7d7e569f163ae9668c3a290d63075ec99cac1e8f563783c4bb768/"><img src="./assets/creds/05-snowflake-agents.png" width="100%" alt="Building AI Agents with Snowflake" /></a></td>
-<td width="49.2%" valign="top"><a href="https://www.linkedin.com/learning/certificates/4ca1b7777b424c3d759513f754b34f1897de6d5f41921b8e65b70983d4adc663/"><img src="./assets/creds/06-aws-prep.png" width="100%" alt="AWS Certified AI Practitioner (AIF-C01) Cert Prep" /></a></td>
-</tr>
-</table>
+<p align="center"><a href="https://www.linkedin.com/learning/certificates/7dbcfe3d6e75e230a455c69fc572a2bf422822b777cc40686c8ec1b220177967/"><img src="./assets/creds/01-snowflake-genai.png" width="49.1%" alt="Generative AI Professional Certificate — Snowflake" /></a>&nbsp;<a href="https://www.linkedin.com/learning/certificates/3da5e65791016cdc89e7f42a986a37c699f119cf7b6f90ac683362857740c3f7/"><img src="./assets/creds/02-docker.png" width="49.1%" alt="Docker Foundations Professional Certificate" /></a></p>
+
+<p align="center"><a href="https://www.linkedin.com/learning/certificates/1e5b63d85c89c9efa42594708e819226f4036646c14fd345356a085d3f5b58e6/"><img src="./assets/creds/03-azure.png" width="49.1%" alt="Microsoft Azure Essentials Professional Certificate" /></a>&nbsp;<a href="https://www.linkedin.com/learning/certificates/5ee9bbacfc5a96408649fbb18ec701032c546fcc574f4395c077ae8cef0aed48/"><img src="./assets/creds/04-github.png" width="49.1%" alt="Career Essentials in GitHub Professional Certificate" /></a></p>
+
+<p align="center"><a href="https://www.linkedin.com/learning/certificates/7432d7674af7d7e569f163ae9668c3a290d63075ec99cac1e8f563783c4bb768/"><img src="./assets/creds/05-snowflake-agents.png" width="49.1%" alt="Building AI Agents with Snowflake" /></a>&nbsp;<a href="https://www.linkedin.com/learning/certificates/4ca1b7777b424c3d759513f754b34f1897de6d5f41921b8e65b70983d4adc663/"><img src="./assets/creds/06-aws-prep.png" width="49.1%" alt="AWS Certified AI Practitioner (AIF-C01) Cert Prep" /></a></p>
 
 <img src="./assets/footer-rule.svg" width="100%" alt="" />

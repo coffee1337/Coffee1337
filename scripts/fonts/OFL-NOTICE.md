@@ -1,11 +1,11 @@
 # Fonts used by the asset builder
 
-`bricolage-600.ttf` / `bricolage-800.ttf` are static instances of **Bricolage Grotesque**
-(weight axis 200–800), rendered here only so `scripts/build-assets.mjs` can measure the
-banner's headline exactly the way a browser will render it.
+`bricolage-600.ttf` / `bricolage-800.ttf` — static **Bricolage Grotesque** instances downloaded
+from Google Fonts (family "Bricolage Grotesque 96pt ExtraBold …"), used so the banner headline is
+measured and rasterised with the exact metrics a browser shows.
 
 Bricolage Grotesque — Copyright (c) 2022, Mathieu Triay — **SIL Open Font License 1.1**
 <https://openfontlicense.org>.
 
-The published banner embeds the variable WOFF2 subsets that ship with the portfolio site
-(`bricolage-grotesque-latin`, `jetbrains-mono-latin`); no font file is served next to the README.
+Everything else (Onest, JetBrains Mono) is read from the portfolio clone under
+`coffee1337.github.io/scripts/og/fonts`; no font is shipped next to the README.
